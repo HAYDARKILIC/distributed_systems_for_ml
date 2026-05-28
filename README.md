@@ -1,4 +1,4 @@
-# distributed_systems_for_ml
+# Distributed Systems for Machine Learning
 
 A six-week, first-principles course on **Distributed Systems for Machine Learning**. Each week is a self-contained Jupyter Notebook that derives the underlying systems concepts from scratch, implements them in pure Python/NumPy (with small simulators in place of real multi-node clusters), visualizes the behavior, and reinforces the theory with exercises.
 
